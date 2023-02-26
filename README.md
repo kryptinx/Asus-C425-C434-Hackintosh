@@ -19,3 +19,5 @@ You can ignore the ventura title, it applies to all OS'es.
 
 Good luck!
 Once again, thank you so much @meghan06 for the time and effort you put in this repo. 
+
+Edit: see @meghan06's note on my EFI: [Click here](https://github.com/kryptinx/Asus-C425-C434-Hackintosh/issues/1)
